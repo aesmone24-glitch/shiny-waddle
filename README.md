@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Awori Simon | CEO, Eagle Eye Tech Services</title>
+    <title>Awori Simon | CEO, EAGLE EYE TECH SERVICE</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
     <style>
@@ -32,7 +32,7 @@
 
     <header class="relative py-20 px-6 max-w-7xl mx-auto lg:flex items-center">
         <div class="lg:w-2/3">
-            <h2 class="text-blue-400 font-semibold tracking-widest mb-4 uppercase">Visionary Leadership</h2>
+            <h2 class="text-blue-40 font-semibold tracking-widest mb-4 uppercase">Visionary Leadership</h2>
             <h1 class="text-5xl lg:text-7xl font-extrabold mb-6 leading-tight">
                 AWORI SIMON
             </h1>
@@ -63,7 +63,7 @@
                 <div class="text-slate-500 text-sm uppercase tracking-wide">Years Exp</div>
             </div>
             <div>
-                <div class="text-3xl font-bold">150+</div>
+                <div class="text-3xl italic">150+</div>
                 <div class="text-slate-500 text-sm uppercase tracking-wide">Projects</div>
             </div>
             <div>
